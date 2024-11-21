@@ -1,4 +1,4 @@
-export default function Pet(props) {
+const Pet = (props) => {
   return (
     <div>
       <h1>{props.name}</h1>
@@ -6,4 +6,6 @@ export default function Pet(props) {
       <h2>{props.breed}</h2>
     </div>
   );
-}
+};
+
+export default Pet;
