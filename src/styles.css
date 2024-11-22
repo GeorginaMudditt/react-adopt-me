@@ -96,7 +96,7 @@ header > a,
   height: 76px;
   overflow: hidden;
   text-indent: -9999px;
-  margin: 40px 0 0 200px;
+  margin: 40px 0;
 }
 
 .pet h2 {
